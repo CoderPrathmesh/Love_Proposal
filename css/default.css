@@ -111,6 +111,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  #mainDiv {
+    flex-direction: column-reverse;
+  }
+
   #elapseClock {
     text-align: center;
     font-size: 1.2em;
