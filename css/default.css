@@ -109,3 +109,18 @@
   text-align: center;
   margin: 20px;
 }
+
+@media screen and (max-width: 768px) {
+  #elapseClock {
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  #words {
+    font-size: 1.2em;
+  }
+
+  #loveHeart {
+    width: 100%;
+  }
+}
